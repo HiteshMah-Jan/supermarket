@@ -14,7 +14,7 @@ int boys = 0;
 		@DisplayGroup(gridCount = 4, title = "Contact", fields = {
 				"mobilePhone", "email", "im1", "im2", "contactNumber",
 	this.paymentTerms = paymentTerms;
-	}
+	}dfdef
 	public String getPaymentMethod() {
 		return paymentMethod;
 	}

@@ -5,7 +5,7 @@
 [![Inline docs](http://inch-ci.org/github/chef/supermarket.svg)](http://inch-ci.org/github/chef/supermarket)
 
 Supermarket is Chef's community repository for cookbooks, currently hosted
-at [supermarket.chef.io](supermarket.chef.io). Supermarket can also be run
+at [supermarket.chef.io](supermarket.chef.io). Supermarket can also be runfefe
 updated readme
 internally, behind-the-firewall.
 

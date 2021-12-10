@@ -6,6 +6,7 @@
 
 Supermarket is Chef's community repository for cookbooks, currently hosted
 at [supermarket.chef.io](supermarket.chef.io). Supermarket can also be run
+updated readme
 internally, behind-the-firewall.
 
 **Umbrella Project**: [Supermarket](https://github.com/chef/chef-oss-practices/blob/master/projects/supermarket.md)

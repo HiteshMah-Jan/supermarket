@@ -11,4 +11,4 @@ class RemoveDeviseAttributesFromUsers < ActiveRecord::Migration[4.2]
     remove_column :users, :last_sign_in_ip, :string
   end
 end
-#somecode
+#somecodewdwd

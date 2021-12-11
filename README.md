@@ -11,7 +11,7 @@ internally, behind-the-firewall.
 
 **Umbrella Project**: [Supermarket](https://github.com/chef/chef-oss-practices/blob/master/projects/supermarket.md)
 
-* **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md):** Maintained
+* **[Project State](https://github.com/chef/chef-oss-dcdfcpractices/blob/master/repo-management/repo-states.md):** Maintained
 * **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md):** 14 days
 * **Pull Request [Response Time Maximum](https://github.com/chef/chef-oddfss-practices/blob/master/repo-management/repo-states.md):** 14 days
 
